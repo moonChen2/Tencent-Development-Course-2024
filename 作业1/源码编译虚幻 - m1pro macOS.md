@@ -8,10 +8,10 @@
 unreal版本 ： 5.4.4
 
 # <font style="color:#DF2A3F;">Warning：</font>
-<font style="color:#DF2A3F;">1. ue5.5似乎有问题，不一定能编译成功。</font>
-<font style="color:#DF2A3F;">2. 下面步骤中运行两个command文件的时候，如果你也是最终打算在外置固态里编译，下载依赖和生产项目文件前就要扔到固态里然后在硬盘里打开这两个command，不可以本地弄好了后再拖进去！！！ 本地编译请忽略。</font>
-<font style="color:#DF2A3F;">3. 请使用最新版本xcode，本人版本16.1，xcode和macOS版本有一定关系，必要时请升级macOS版本，app store下载xcode即可。我第一次编译就是因为xcode版本不对导致My Mac旁边没有list来编译QAQ</font>
-<font style="color:#DF2A3F;">4. 硬盘格式化为APFS（Apple 文件系统），exFAT未尝试，可能存在影响，也可能不存在</font>
+<font style="color:#DF2A3F;">1. ue5.5似乎有问题，不一定能编译成功。</font>  
+<font style="color:#DF2A3F;">2. 下面步骤中运行两个command文件的时候，如果你也是最终打算在外置固态里编译，下载依赖和生产项目文件前就要扔到固态里然后在硬盘里打开这两个command，不可以本地弄好了后再拖进去！！！ 本地编译请忽略。</font>  
+<font style="color:#DF2A3F;">3. 请使用最新版本xcode，本人版本16.1，xcode和macOS版本有一定关系，必要时请升级macOS版本，app store下载xcode即可。我第一次编译就是因为xcode版本不对导致My Mac旁边没有list来编译QAQ</font>  
+<font style="color:#DF2A3F;">4. 硬盘格式化为APFS（Apple 文件系统），exFAT未尝试，可能存在影响，也可能不存在</font>  
 
 ![](https://cdn.nlark.com/yuque/0/2024/png/42546699/1732242770175-1a69e6c3-4751-4a87-bf4b-6d48f5689f78.png)
 
